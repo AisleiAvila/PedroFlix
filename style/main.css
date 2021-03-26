@@ -3,11 +3,7 @@
     --preto:#141414;
 }
 
-.{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
+
 
 body{
     background: var(--preto);
@@ -106,3 +102,18 @@ header nav a:hover{
     margin-top: 5px;
 }
 
+.rodape{
+    margin-left: 85%;
+}
+
+.rodape img{
+    height: 15%;
+    width: 15%;
+    align-items: center;
+}
+
+.rodape label{
+    font-size: 10px;
+    align-items: center;
+
+}
